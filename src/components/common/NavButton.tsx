@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Button } from "@/components/utils/Button";
+import { Button } from "@/components/ui/Button";
 import { INavButton } from "@/types";
 
 const NavButton = ({ icon: Icon, label, href }: INavButton) => {
