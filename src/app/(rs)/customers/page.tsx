@@ -1,5 +1,3 @@
-"use client";
-
 const Customer = () => {
   return <div>Customer Page</div>;
 };
